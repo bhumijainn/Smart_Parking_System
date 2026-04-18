@@ -1,10 +1,11 @@
 **IoT-Based Smart Parking System**
-** Project Overview**
+
+**Project Overview**
 As urban populations grow, vehicular traffic and parking management have become issues of great concern. The Smart Parking System is an IoT-based automation project designed to eliminate the time wasted searching for parking slots and reduce the manual labor required for parking management. This fully automated system senses vehicles at entry and exit points, dynamically allocates parking slots based on vacancy, and provides real-time occupancy updates.
 
 By integrating hardware sensors with a microcontroller and computer vision, this project serves as a comprehensive solution for modern, efficient, and user-friendly parking facilities.
 
-** Key Features**
+**Key Features**
 Automated Access Control: Uses ultrasonic sensors and servo motors to automatically open gates upon vehicle detection, removing the need for manual labor.
 
 Real-Time Occupancy Tracking: IR sensors deployed at each parking slot monitor availability and instantly update the system.
